@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-03-09T09:58:28.059789912-08:00
+    description: A Helm chart for Kubernetes
+    digest: c785a2129951331f527e63198b01d21a655cba2a8d4cb719049acf3a60f8f233
+    name: notificationchart
+    urls:
+    - https://subilma.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-09T09:58:28.059385945-08:00
